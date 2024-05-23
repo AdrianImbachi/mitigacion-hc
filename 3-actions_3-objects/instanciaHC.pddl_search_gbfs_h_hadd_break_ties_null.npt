@@ -1,0 +1,22 @@
+(nivel-emision cafe)=100.0 (nivel-emision arroz)=90.0 (nivel-emision maiz)=100.0 (presupuesto cafe)=2000.0 (presupuesto arroz)=2000.0 (presupuesto maiz)=2000.0 (time)=0 
+
+(nivel-emision cafe)=100.0 (nivel-emision arroz)=90.0 (nivel-emision maiz)=50.0 (presupuesto cafe)=2000.0 (presupuesto arroz)=2000.0 (presupuesto maiz)=1700.0 (time)=0 
+
+(nivel-emision cafe)=100.0 (nivel-emision arroz)=80.0 (nivel-emision maiz)=50.0 (presupuesto cafe)=2000.0 (presupuesto arroz)=1900.0 (presupuesto maiz)=1700.0 (time)=0 
+
+(nivel-emision cafe)=100.0 (nivel-emision arroz)=70.0 (nivel-emision maiz)=50.0 (presupuesto cafe)=2000.0 (presupuesto arroz)=1800.0 (presupuesto maiz)=1700.0 (time)=0 
+
+(nivel-emision cafe)=100.0 (nivel-emision arroz)=60.0 (nivel-emision maiz)=50.0 (presupuesto cafe)=2000.0 (presupuesto arroz)=1700.0 (presupuesto maiz)=1700.0 (time)=0 
+
+(nivel-emision cafe)=100.0 (nivel-emision arroz)=50.0 (nivel-emision maiz)=50.0 (presupuesto cafe)=2000.0 (presupuesto arroz)=1600.0 (presupuesto maiz)=1700.0 (time)=0 
+
+(nivel-emision cafe)=90.0 (nivel-emision arroz)=50.0 (nivel-emision maiz)=50.0 (presupuesto cafe)=1900.0 (presupuesto arroz)=1600.0 (presupuesto maiz)=1700.0 (time)=0 
+
+(nivel-emision cafe)=80.0 (nivel-emision arroz)=50.0 (nivel-emision maiz)=50.0 (presupuesto cafe)=1800.0 (presupuesto arroz)=1600.0 (presupuesto maiz)=1700.0 (time)=0 
+
+(nivel-emision cafe)=80.0 (nivel-emision arroz)=50.0 (nivel-emision maiz)=40.0 (presupuesto cafe)=1800.0 (presupuesto arroz)=1600.0 (presupuesto maiz)=1600.0 (time)=0 
+
+(nivel-emision cafe)=80.0 (nivel-emision arroz)=50.0 (nivel-emision maiz)=30.0 (presupuesto cafe)=1800.0 (presupuesto arroz)=1600.0 (presupuesto maiz)=1500.0 (time)=0 
+
+(nivel-emision cafe)=80.0 (nivel-emision arroz)=50.0 (nivel-emision maiz)=20.0 (presupuesto cafe)=1800.0 (presupuesto arroz)=1600.0 (presupuesto maiz)=1400.0 (time)=0 
+
