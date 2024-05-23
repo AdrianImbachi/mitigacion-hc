@@ -1,0 +1,12 @@
+(nivel-emision cafe)=100.0 (nivel-emision arroz)=90.0 (presupuesto cafe)=1000.0 (presupuesto arroz)=1000.0 (time)=0 
+
+(nivel-emision cafe)=100.0 (nivel-emision arroz)=80.0 (presupuesto cafe)=1000.0 (presupuesto arroz)=900.0 (time)=0 
+
+(nivel-emision cafe)=100.0 (nivel-emision arroz)=60.0 (presupuesto cafe)=1000.0 (presupuesto arroz)=400.0 (time)=0 
+
+(nivel-emision cafe)=100.0 (nivel-emision arroz)=50.0 (presupuesto cafe)=1000.0 (presupuesto arroz)=300.0 (time)=0 
+
+(nivel-emision cafe)=90.0 (nivel-emision arroz)=50.0 (presupuesto cafe)=900.0 (presupuesto arroz)=300.0 (time)=0 
+
+(nivel-emision cafe)=80.0 (nivel-emision arroz)=50.0 (presupuesto cafe)=800.0 (presupuesto arroz)=300.0 (time)=0 
+
