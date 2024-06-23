@@ -14,7 +14,7 @@ problem.pddl: Contiene la instancia del problema problem-hc.
 
 Estructura de Archivos:
 
-Coloca mitigacion-hc.pddl y problem-hc.pddl en una carpeta accesible desde la línea de comandos.
+Coloca dominioHC.pddl y instanciaHC.pddl en una carpeta accesible desde la línea de comandos.
 Ejecución desde la Terminal:
 
 Abre una terminal o línea de comandos en tu sistema operativo.
@@ -23,9 +23,12 @@ Dentro del directorio ENHSP-20:
 Utiliza el siguiente comando para ejecutar ENHSP-20 con los archivos PDDL:
 Comando de Ejecución:
 
- `java -jar enhsp-dist/enhsp.jar /ruta/a/mitigacion-hc.pddl /ruta/a/problem-hc.pddl`
+ `java -jar enhsp-dist/enhsp.jar -o /ruta/a/domain.pddl  -f /ruta/a/problem.pddl`
 
-Reemplaza `/ruta/a/domain.pddl` y `/ruta/a/problem.pddl` con las rutas donde tengas almacenados los archivos mitigacion-hc.pddl y problem-hc.pddl, respectivamente.
+Reemplaza `/ruta/a/domain.pddl` y `/ruta/a/problem.pddl` con las rutas donde tengas almacenados los archivos dominioHC.pddl y instanciaHC.pddl, respectivamente.
+
+El comando quedaría de la siguiente manera (Ejemplo):
+ `java -jar enhsp-dist/enhsp.jar  -o /3-actions_1-object/dominioHC.pddl -f /3-actions_1-object/instanciaHC.pddl`
 
 Espera a la Solución:
 
